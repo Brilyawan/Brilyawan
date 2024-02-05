@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristian Brilyawan</h1>
-<h3 align="center">I'am a Finance and Accounting Officer with 1.5 years experience, who interested in Data Analysis. I have begun my journey in the digital world at Purwadhika Digital Technology School with a focus on Data Science and Machine Learning program. I am confident that I will gain knowledge and experience that will greatly assist me in my future career.</h3>
+<h3 align="center">I'am a Finance and Accounting Officer with 1.5 years experience, who interested in Data Analysis. I have start my journey in the digital world at Purwadhika Digital Technology School with a focus on Data Science and Machine Learning program. I am confident that I will gain knowledge and experience that will greatly assist me in my future career.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brilyawan&label=Profile%20views&color=0e75b6&style=flat" alt="brilyawan" /> </p>
 
